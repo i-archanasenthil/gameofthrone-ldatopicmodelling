@@ -43,7 +43,7 @@ def compute_coherence(lda_model, texts, dictionary):
     return coherence_model_lda.get_coherence()
 
 
-document = [line for line in text.split('\n') if line.strip()]
+document = [line for line in document.split('\n') if line.strip()]
 documents = [process_text(doc) for doc in document]
 
 texts = documents
