@@ -1,4 +1,4 @@
-**Unlocking Hidden Themes in Game of Thrones with Topic Modeling (LDA)**
+##Unlocking Hidden Themes in Game of Thrones with Topic Modeling (LDA)
 
 Just wrapped up a fun NLP project where I applied **Latent Dirichlet Allocation (LDA)** to the *A Song of Ice and Fire* series (the book series behind *Game of Thrones*). 🐉⚔️
 
